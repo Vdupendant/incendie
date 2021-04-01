@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>couleur/arbre.jpg</file>
+        <file>couleur/eau.png</file>
+        <file>couleur/terre.jpg</file>
+        <file>couleur/cendre.jpg</file>
+        <file>couleur/feu.jpg</file>
+    </qresource>
+</RCC>
